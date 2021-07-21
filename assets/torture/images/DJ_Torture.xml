@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DJ_Torture.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mixtape0000" x="0" y="0" width="1193" height="738" frameX="-55" frameY="-320" frameWidth="1420" frameHeight="1058"/>
+	<SubTexture name="mixtape0001" x="1193" y="0" width="1150" height="689" frameX="-61" frameY="-340" frameWidth="1420" frameHeight="1058"/>
+	<SubTexture name="mixtape0002" x="2343" y="0" width="1210" height="632" frameX="-40" frameY="-338" frameWidth="1420" frameHeight="1058"/>
+	<SubTexture name="mixtape0003" x="0" y="738" width="1156" height="650" frameX="-55" frameY="-328" frameWidth="1420" frameHeight="1058"/>
+	<SubTexture name="mixtape0004" x="1156" y="738" width="1235" height="681" frameX="0" frameY="-315" frameWidth="1420" frameHeight="1058"/>
+	<SubTexture name="mixtape0005" x="2391" y="738" width="1303" height="716" frameX="-38" frameY="-316" frameWidth="1420" frameHeight="1058"/>
+	<SubTexture name="mixtape0006" x="0" y="1454" width="1303" height="785" frameX="-38" frameY="-247" frameWidth="1420" frameHeight="1058"/>
+	<SubTexture name="mixtape0007" x="1303" y="1454" width="1303" height="785" frameX="-38" frameY="-247" frameWidth="1420" frameHeight="1058"/>
+	<SubTexture name="mixtape0008" x="2606" y="1454" width="1382" height="1032" frameX="-38" frameY="0" frameWidth="1420" frameHeight="1058"/>
+	<SubTexture name="mixtape0009" x="2606" y="1454" width="1382" height="1032" frameX="-38" frameY="0" frameWidth="1420" frameHeight="1058"/>
+	<SubTexture name="mixtape0010" x="0" y="0" width="1193" height="738" frameX="-55" frameY="-320" frameWidth="1420" frameHeight="1058"/>
+	<SubTexture name="mixtape0011" x="1193" y="0" width="1150" height="689" frameX="-61" frameY="-340" frameWidth="1420" frameHeight="1058"/>
+	<SubTexture name="mixtape0012" x="2343" y="0" width="1210" height="632" frameX="-40" frameY="-338" frameWidth="1420" frameHeight="1058"/>
+	<SubTexture name="mixtape0013" x="0" y="738" width="1156" height="650" frameX="-55" frameY="-328" frameWidth="1420" frameHeight="1058"/>
+	<SubTexture name="mixtape0014" x="1156" y="738" width="1235" height="681" frameX="0" frameY="-315" frameWidth="1420" frameHeight="1058"/>
+	<SubTexture name="mixtape0015" x="2391" y="738" width="1303" height="716" frameX="-38" frameY="-316" frameWidth="1420" frameHeight="1058"/>
+	<SubTexture name="mixtape0016" x="0" y="1454" width="1303" height="785" frameX="-38" frameY="-247" frameWidth="1420" frameHeight="1058"/>
+	<SubTexture name="mixtape0017" x="1303" y="1454" width="1303" height="785" frameX="-38" frameY="-247" frameWidth="1420" frameHeight="1058"/>
+	<SubTexture name="mixtape0018" x="2606" y="1454" width="1382" height="1032" frameX="-38" frameY="0" frameWidth="1420" frameHeight="1058"/>
+	<SubTexture name="mixtape0019" x="2606" y="1454" width="1382" height="1032" frameX="-38" frameY="0" frameWidth="1420" frameHeight="1058"/>
+</TextureAtlas>

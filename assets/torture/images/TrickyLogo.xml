@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TrickyLogo.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Logo0000" x="0" y="0" width="879" height="764"/>
+	<SubTexture name="Logo0001" x="879" y="0" width="865" height="752" frameX="-7" frameY="-6" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="Logo0002" x="1744" y="0" width="851" height="739" frameX="-14" frameY="-13" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="Logo0003" x="2595" y="0" width="837" height="727" frameX="-21" frameY="-19" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="Logo0004" x="0" y="764" width="827" height="719" frameX="-26" frameY="-23" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="Logo0005" x="827" y="764" width="817" height="709" frameX="-31" frameY="-28" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="Logo0006" x="1644" y="764" width="807" height="701" frameX="-36" frameY="-32" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="Logo0007" x="2451" y="764" width="801" height="695" frameX="-39" frameY="-35" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="Logo0008" x="3252" y="764" width="794" height="690" frameX="-43" frameY="-38" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="Logo0009" x="0" y="1483" width="787" height="685" frameX="-46" frameY="-40" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="Logo0010" x="787" y="1483" width="781" height="679" frameX="-49" frameY="-43" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="Logo0011" x="1568" y="1483" width="775" height="674" frameX="-52" frameY="-46" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="Logo0012" x="2343" y="1483" width="769" height="669" frameX="-55" frameY="-48" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="Logo0013" x="3112" y="1483" width="766" height="665" frameX="-57" frameY="-50" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="Logo0014" x="0" y="2168" width="763" height="663" frameX="-58" frameY="-51" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="Logo0015" x="763" y="2168" width="759" height="660" frameX="-60" frameY="-53" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="Logo0016" x="1522" y="2168" width="757" height="658" frameX="-61" frameY="-54" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="Logo0017" x="2279" y="2168" width="755" height="657" frameX="-62" frameY="-54" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="Logo0018" x="3034" y="2168" width="753" height="655" frameX="-63" frameY="-55" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="Logo0019" x="0" y="2831" width="750" height="652" frameX="-65" frameY="-57" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="Logo0020" x="750" y="2831" width="746" height="648" frameX="-67" frameY="-59" frameWidth="879" frameHeight="764"/>
+	<SubTexture name="Logo0021" x="750" y="2831" width="746" height="648" frameX="-67" frameY="-59" frameWidth="879" frameHeight="764"/>
+</TextureAtlas>
