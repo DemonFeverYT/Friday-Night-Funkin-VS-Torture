@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Hankdababy.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Hankdababy0000" x="0" y="0" width="350" height="390" frameX="-3" frameY="-28" frameWidth="353" frameHeight="418"/>
+	<SubTexture name="Hankdababy0001" x="350" y="0" width="349" height="396" frameX="-3" frameY="-22" frameWidth="353" frameHeight="418"/>
+	<SubTexture name="Hankdababy0002" x="699" y="0" width="351" height="405" frameX="0" frameY="-12" frameWidth="353" frameHeight="418"/>
+	<SubTexture name="Hankdababy0003" x="1050" y="0" width="351" height="409" frameX="-1" frameY="-8" frameWidth="353" frameHeight="418"/>
+	<SubTexture name="Hankdababy0004" x="1401" y="0" width="351" height="413" frameX="-2" frameY="-4" frameWidth="353" frameHeight="418"/>
+	<SubTexture name="Hankdababy0005" x="0" y="413" width="350" height="415" frameX="-3" frameY="-2" frameWidth="353" frameHeight="418"/>
+	<SubTexture name="Hankdababy0006" x="350" y="413" width="350" height="417" frameX="-3" frameY="0" frameWidth="353" frameHeight="418"/>
+</TextureAtlas>
