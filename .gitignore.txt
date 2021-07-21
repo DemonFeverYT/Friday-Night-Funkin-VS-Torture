@@ -1,6 +1,0 @@
-export/
-.vscode/
-APIStuff.hx
-brown.bat
-tha.bat
-releases/
