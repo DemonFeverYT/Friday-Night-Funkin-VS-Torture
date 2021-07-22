@@ -100,17 +100,19 @@ class MainMenuState extends MusicBeatState
 			if (random >= 1000 && random <= 1999)
 				show = 'retainer';
 			if (random >= 6000 && random <= 6999)
-				show = 'scrapeface';			
+				show = 'go3lm';			
 			if (random >= 3000 && random <= 3999)
-				show = 'go3lm';
+				show = 'gestalt';
 			if (random >= 3500 && random <= 3499)
-				show = 'gestalt';	
+				show = 'magv2';	
 			if (random >= 4000 && random <= 4999)
-				show = 'magv2';
-			if (random >= 2000 && random <= 2999)
 				show = 'magv4';
-			if (random >= 5000 && random <= 5999)
+			if (random >= 2000 && random <= 2999)
 				show = '2bdamned';
+			if (random >= 2500 && random <= 2499)
+				show = 'romp';
+			if (random >= 5000 && random <= 5999)
+				show = 'scrapeface';
 			if (random >= 7000 && random <= 7999)
 				show = 'mag';
 			if (random > 9800)
@@ -322,7 +324,18 @@ class MainMenuState extends MusicBeatState
 				shower.y -= 200;
 				shower.x -= 400;
 
-				lines.push('A FAILED EXPERIMENT');		
+				lines.push('A FAILED EXPERIMENT');
+
+			case 'romp':
+				shower.frames = Paths.getSparrowAtlas("menu/Romp/Romp","torture");
+				shower.animation.addByPrefix('idle','idle');
+				if (!FlxG.sound.music.playing)
+					FlxG.sound.playMusic(Paths.music("nexus_torture2","torture"), 0);
+				shower.setGraphicSize(Std.int(shower.width * 1.2));
+				shower.y -= 50;
+				shower.x -= 200;
+
+				lines.push('YOU ARE BETRAYED');			
 		}
 		
 		shower.antialiasing = true;
@@ -394,7 +407,7 @@ class MainMenuState extends MusicBeatState
 
 		if (FlxG.save.data.beaten)
 		{
-			var troph:FlxSprite = new FlxSprite(875, 60).loadGraphic(Paths.image("menu/Silver_Trophy","torture"));
+			var troph:FlxSprite = new FlxSprite(885, 10).loadGraphic(Paths.image("menu/Silver_Trophy","torture"));
 			if (FlxG.save.data.beatenHard)
 			{
 
